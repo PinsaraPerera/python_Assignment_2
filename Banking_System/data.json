@@ -1,0 +1,12 @@
+{
+    "250706": {
+        "account_holder": "Pawan",
+        "balance": 40000.0,
+        "transaction_history": [
+            "Deposited $45000.0",
+            "Loan of $320000.00 approved.",
+            "Withdrew $5000.0"
+        ],
+        "loan_balance": 320000.0
+    }
+}
