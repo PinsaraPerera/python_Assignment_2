@@ -1,0 +1,14 @@
+[
+    {
+        "product_id": 1,
+        "name": "Soap",
+        "quantity": 10,
+        "price": 115.0
+    },
+    {
+        "product_id": 2,
+        "name": "Frying Pan",
+        "quantity": 1,
+        "price": 2300.0
+    }
+]

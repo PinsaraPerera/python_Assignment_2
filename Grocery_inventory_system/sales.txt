@@ -1,0 +1,6 @@
+{
+    "Soap": {
+        "quantity": 5,
+        "revenue": 575.0
+    }
+}
