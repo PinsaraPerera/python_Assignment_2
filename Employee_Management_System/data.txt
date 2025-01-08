@@ -1,1 +1,1 @@
-CS/2020/005, Pawan,   30000, Computer Science
+123, Pawan, 45678.0, Computer
